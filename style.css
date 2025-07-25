@@ -8,3 +8,11 @@
     font-family: 'Inter' sans-serif;
 }
 
+.header {
+    background: #2965f1;
+    padding: 23px;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
+}
